@@ -1,0 +1,11 @@
+reqs 
+
+round of combat:
+-should be able to roll initiative for each character 
+-each character should be assigned an action with an associated duration 
+-durations should be subtracted from initiative rolls 
+-final initiatives are used to determine turn order
+-each monster will be instantiated for each round with hp, ac, and weapon 
+
+-spells are 3, weapons generally take longer depending 
+-moving is 2? 
